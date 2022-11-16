@@ -24,19 +24,15 @@ body{
   cursor: pointer;
 }
 
-/*
 img{
   width: 100%;
   height: 100%;
-}*/
+}
 
 
 .img-container > h3{
   position: absolute;
-  /*font-family: cosi, azure;*/
   font-family: "ITCMedeaW01-ExtraBold";
-  /*font-family: "Cosi Azure Black Stencil";*/
-  /*font-family: 'Montserrat', sans-serif;*/
   color: white;
   font-weight: 900;
   font-size: 80px;
